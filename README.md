@@ -18,7 +18,7 @@ In this, I have used  **PyTorch** for computer vision and also used **Inception-
 - I have used Google Colab to train my model and take advantage of GPU and more RAM provided by colab. But my dataset was pretty large (size), so it was a hectic task too upload it
 on drive and then on colab hence I used Jupyter Notebook in my local machine and convert the image to **Numerical Python** files so it world if easy to upload those in colab. "transform_imges.ipynb" 
 notebook has the code for transforming images to ".npy" files.
-- After that, I have used **"Inception-Resnet V1" to train my model according to my customized dataset or we should say the converted dataset(numerical python files). At last we will
+- After that, I have used **"Inception-Resnet V1"** to train my model according to my customized dataset or we should say the converted dataset(numerical python files). At last we will
 save the model so that we can use it to recognize face in real-time. "Face Recognition.ipynb" is the notebook for this work.
 - I have used "OpenCV" library for accessing my webcame and "MTCNN" for detecting faces and landmarks. After that, use the frame and saved model to check if the if the person in front is "Aryan"(Me) or 
 "Not_Aryan"(someone else). "app.py" notebook has code for it.

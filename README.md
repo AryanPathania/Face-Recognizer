@@ -26,7 +26,8 @@ save the model so that we can use it to recognize face in real-time. "Face Recog
 ### Result<br>
 The best valdiation accuracy that came after training my model was **"82.14%"**.<br><br>
 The output during realtime : <br>
-![Face Recognizer 06-01-2021 06_41_02 PM](https://user-images.githubusercontent.com/50714723/103772802-141d4380-5050-11eb-9805-e1eab9078577.png)
+![Face Recognizer 19-01-2021 07_21_19 PM](https://user-images.githubusercontent.com/50714723/105043666-d080fb80-5a8b-11eb-8f25-cf620492edc7.png)
+
 <br>
 ### Future Scope of the Project<br>
 - First we can increase the accuracy of our project by feeding it with more images hence increasing the size of dataset
